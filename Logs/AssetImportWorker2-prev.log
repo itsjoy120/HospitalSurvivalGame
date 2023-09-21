@@ -15,7 +15,7 @@ C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-50006
+49885
 Successfully changed project path to: C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
 C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [11476] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 143867836 [EditorId] 143867836 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [13140] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 2852233906 [EditorId] 2852233906 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [11476] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 143867836 [EditorId] 143867836 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [13140] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 2852233906 [EditorId] 2852233906 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 187.13 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 104.32 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.19f1 (c9714fde33b6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Resources/UnitySubsystems
@@ -67,92 +67,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56052
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56576
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.015282 seconds.
+Registered in 0.011805 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 97.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 109.41 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.022 seconds
+- Completed reload, in  0.966 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1023ms)
-		BeginReloadAssembly (142ms)
+	ReloadAssembly (967ms)
+		BeginReloadAssembly (116ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (697ms)
-			LoadAssemblies (138ms)
+		EndReloadAssembly (673ms)
+			LoadAssemblies (111ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (174ms)
+			SetupTypeCache (157ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (42ms)
-			SetupLoadedEditorAssemblies (396ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (391ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
+				InitializePlatformSupportModulesInManaged (14ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (98ms)
+				RefreshPlugins (110ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (203ms)
-				ProcessInitializeOnLoadMethodAttributes (75ms)
+				ProcessInitializeOnLoadAttributes (185ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008836 seconds.
+Registered in 0.009812 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Joys Pc\Downloads\HospitalSurvivalGame-main\HospitalSurvivalGame-main\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Joys Pc\Downloads\HospitalSurvivalGame-main\HospitalSurvivalGame-main\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.543 seconds
+- Completed reload, in  1.484 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1544ms)
-		BeginReloadAssembly (170ms)
+	ReloadAssembly (1485ms)
+		BeginReloadAssembly (185ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (27ms)
-		EndReloadAssembly (1204ms)
-			LoadAssemblies (137ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1132ms)
+			LoadAssemblies (143ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (395ms)
+			SetupTypeCache (404ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (103ms)
-			SetupLoadedEditorAssemblies (483ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (479ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
+				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (135ms)
-				ProcessInitializeOnLoadAttributes (288ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (321ms)
 				ProcessInitializeOnLoadMethodAttributes (27ms)
-				AfterProcessingInitializeOnLoad (14ms)
+				AfterProcessingInitializeOnLoad (13ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3115 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 22 unused Assets / (56.5 KB). Loaded Objects now: 3606.
 Memory consumption went from 199.2 MB to 199.1 MB.
-Total: 5.268700 ms (FindLiveObjects: 0.405000 ms CreateObjectMapping: 0.189300 ms MarkObjects: 4.534600 ms  DeleteObjects: 0.137900 ms)
+Total: 6.365300 ms (FindLiveObjects: 0.634400 ms CreateObjectMapping: 0.652300 ms MarkObjects: 4.898800 ms  DeleteObjects: 0.177200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -164,6 +164,120 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 223.408439 seconds.
+  path: Assets/Horror Hospital Pack/Models/Door/Door.FBX
+  artifactKey: Guid(4cee08c7276bf274d91d84489cdf46de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Models/Door/Door.FBX using Guid(4cee08c7276bf274d91d84489cdf46de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207798f9ec04622d3d32db18dd77f89c') in 0.334991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Objects/AmmoBox/box.obj
+  artifactKey: Guid(08c6a95298f30b74891815ec065f1297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/AmmoBox/box.obj using Guid(08c6a95298f30b74891815ec065f1297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ba3b55d1f4185a8ec50b35be2fd3bb') in 0.224462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.694635 seconds.
+  path: Assets/Stalking Enemt
+  artifactKey: Guid(e793d005ef766bd46bde0ceb1a5ca7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt using Guid(e793d005ef766bd46bde0ceb1a5ca7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3db5309f63feb8aab4ddaae059a8b4') in 0.005500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.454880 seconds.
+  path: Assets/Stalking Enemt/Sneak Walk/Sneak Walk.dae
+  artifactKey: Guid(a412edfda665afa44af4b3c26f34f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Sneak Walk/Sneak Walk.dae using Guid(a412edfda665afa44af4b3c26f34f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b903b9cb31ad65c9915c0159101612') in 0.018226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010782 seconds.
+  path: Assets/Stalking Enemt/Sneak Walk
+  artifactKey: Guid(003f49c406a780643802fb3c8c1872e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Sneak Walk using Guid(003f49c406a780643802fb3c8c1872e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed16707cbd71d5aad9092479bc2d513f') in 0.002742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.539070 seconds.
+  path: Assets/Stalking Enemt/Orc Idle
+  artifactKey: Guid(545c45a457ad87a44b9f1ceeb9f4d4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle using Guid(545c45a457ad87a44b9f1ceeb9f4d4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf6eca7980057088f7ad7cb3fbca463') in 0.004156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042152 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/Orc Idle.dae
+  artifactKey: Guid(d50a1a9ba14dd0e418f1b12282f6ff05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/Orc Idle.dae using Guid(d50a1a9ba14dd0e418f1b12282f6ff05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce3bed53f47af9040e9578a4895ef8e') in 0.068348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 82.409728 seconds.
+  path: Assets/Ch25_nonPBR.fbx
+  artifactKey: Guid(15b05cd291aa30646a8bd8f5e042a0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ch25_nonPBR.fbx using Guid(15b05cd291aa30646a8bd8f5e042a0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f59ea0cd8bb5131598b7c329173f288') in 0.106505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.861416 seconds.
+  path: Assets/Ch25_nonPBR.fbx
+  artifactKey: Guid(15b05cd291aa30646a8bd8f5e042a0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ch25_nonPBR.fbx using Guid(15b05cd291aa30646a8bd8f5e042a0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b192556223a141583aa47fe4802cac4') in 0.098219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 162.189767 seconds.
+  path: Assets/Stalking Enemt/Sneak Walk/Take 001.anim
+  artifactKey: Guid(51d49824f35b1c54fbd8ea6e0d07ca04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Sneak Walk/Take 001.anim using Guid(51d49824f35b1c54fbd8ea6e0d07ca04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b73e525eacf808448c0eabc0bd915c') in 0.019212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.922880 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/Take 001.anim
+  artifactKey: Guid(c3b4fdde14957d943875508aafd94701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/Take 001.anim using Guid(c3b4fdde14957d943875508aafd94701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcde03d963880b59525c8cd16b6e6af') in 0.010956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 296.351807 seconds.
+  path: Assets/Stalking Enemt/Zombie Attack
+  artifactKey: Guid(14b9686d854175f4ca8e562193a34e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Zombie Attack using Guid(14b9686d854175f4ca8e562193a34e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619616d8980e4dfe5f23d1695309c047') in 0.006296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021222 seconds.
+  path: Assets/Stalking Enemt/Zombie Attack/Zombie Attack.dae
+  artifactKey: Guid(fe8f5cd996b9f3d48b0d42709adba8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Zombie Attack/Zombie Attack.dae using Guid(fe8f5cd996b9f3d48b0d42709adba8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c95f385b47775a40c753de9f452503d') in 0.011293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.350287 seconds.
+  path: Assets/Stalking Enemt/Zombie Attack/Take 001.anim
+  artifactKey: Guid(7561e15474194d5418dd2184c7ba6765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Zombie Attack/Take 001.anim using Guid(7561e15474194d5418dd2184c7ba6765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022e0b7a2ee8877ca2f046b45df78b86') in 0.020847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 185.537215 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/textures
+  artifactKey: Guid(83aa6388195508f48801c83169fdabe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/textures using Guid(83aa6388195508f48801c83169fdabe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3423bc708e4484417b234e0fb91d0085') in 0.004195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058521 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/textures/Ch25_1001_Diffuse.png
+  artifactKey: Guid(ef933f53752d0bc4aa592fd0d73df7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/textures/Ch25_1001_Diffuse.png using Guid(ef933f53752d0bc4aa592fd0d73df7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61fc202df380372728a311696ed3694') in 0.069894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/textures/Ch25_1002_Glossiness.png
+  artifactKey: Guid(f06f557d2034df941ac6bf4988510a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/textures/Ch25_1002_Glossiness.png using Guid(f06f557d2034df941ac6bf4988510a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5181f3de98161a280ffc35aca47fb911') in 0.069579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/textures/Ch25_1002_Diffuse.png
+  artifactKey: Guid(86361725d8b8f4f418c894fe3139b84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/textures/Ch25_1002_Diffuse.png using Guid(86361725d8b8f4f418c894fe3139b84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06741f2f70923da6a0d302086079a746') in 0.046011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Stalking Enemt/Orc Idle/textures/Ch25_1002_Normal.png
+  artifactKey: Guid(1c371e1715639fe468e8200d93861c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stalking Enemt/Orc Idle/textures/Ch25_1002_Normal.png using Guid(1c371e1715639fe468e8200d93861c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804bb749201c8e77f62e6a34ab2093c1') in 0.038127 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting

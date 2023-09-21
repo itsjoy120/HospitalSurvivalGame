@@ -15,7 +15,7 @@ C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50006
+49885
 Successfully changed project path to: C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
 C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/Joys Pc/Downloads/HospitalSurvivalGame-main/HospitalSurvivalGame-main
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [9268] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 3409070755 [EditorId] 3409070755 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [9580] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 3915540707 [EditorId] 3915540707 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [9268] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 3409070755 [EditorId] 3409070755 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [9580] Host "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 3915540707 [EditorId] 3915540707 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K5TI6LI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 101.06 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 105.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.19f1 (c9714fde33b6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Resources/UnitySubsystems
@@ -67,92 +67,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.014203 seconds.
+Registered in 0.014838 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 90.17 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 102.79 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.853 seconds
+- Completed reload, in  0.974 seconds
 Domain Reload Profiling:
-	ReloadAssembly (854ms)
-		BeginReloadAssembly (111ms)
+	ReloadAssembly (975ms)
+		BeginReloadAssembly (120ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (571ms)
-			LoadAssemblies (106ms)
+		EndReloadAssembly (677ms)
+			LoadAssemblies (116ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (152ms)
+			SetupTypeCache (184ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (38ms)
-			SetupLoadedEditorAssemblies (306ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (376ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (13ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (90ms)
+				RefreshPlugins (103ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (146ms)
-				ProcessInitializeOnLoadMethodAttributes (54ms)
+				ProcessInitializeOnLoadAttributes (175ms)
+				ProcessInitializeOnLoadMethodAttributes (82ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007244 seconds.
+Registered in 0.010559 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Joys Pc\Downloads\HospitalSurvivalGame-main\HospitalSurvivalGame-main\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Joys Pc\Downloads\HospitalSurvivalGame-main\HospitalSurvivalGame-main\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.180 seconds
+- Completed reload, in  1.493 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1181ms)
-		BeginReloadAssembly (146ms)
+	ReloadAssembly (1494ms)
+		BeginReloadAssembly (171ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (24ms)
-		EndReloadAssembly (893ms)
-			LoadAssemblies (99ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1152ms)
+			LoadAssemblies (140ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (311ms)
+			SetupTypeCache (407ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (387ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (488ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (12ms)
+				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (86ms)
-				ProcessInitializeOnLoadAttributes (252ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (330ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (16ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.86 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3115 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 22 unused Assets / (56.5 KB). Loaded Objects now: 3606.
-Memory consumption went from 199.2 MB to 199.1 MB.
-Total: 3.414500 ms (FindLiveObjects: 0.356200 ms CreateObjectMapping: 0.092200 ms MarkObjects: 2.863900 ms  DeleteObjects: 0.100900 ms)
+Memory consumption went from 199.2 MB to 199.2 MB.
+Total: 4.953900 ms (FindLiveObjects: 0.469900 ms CreateObjectMapping: 0.209700 ms MarkObjects: 4.091900 ms  DeleteObjects: 0.180200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -166,58 +166,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1479.589821 seconds.
-  path: Assets/Pottery/prefabs
-  artifactKey: Guid(a293c523f94dd9c46b579e84af2c7ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs using Guid(a293c523f94dd9c46b579e84af2c7ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e8371003187965cf037e706e483725') in 0.013352 seconds 
+  Time since last request: 223.480550 seconds.
+  path: Assets/Horror Hospital Pack/Models/Doorway/Doorway.FBX
+  artifactKey: Guid(c286eada1dc92de45b05d137b88dba31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Models/Doorway/Doorway.FBX using Guid(c286eada1dc92de45b05d137b88dba31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1715c49c7bd572ec30aecf4bba4828') in 0.291175 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.055581 seconds.
-  path: Assets/Pottery/prefabs/bowl.prefab
-  artifactKey: Guid(22192c2069156f44fbf0cc19eb00f9bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/bowl.prefab using Guid(22192c2069156f44fbf0cc19eb00f9bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcfb99ea4714c4927cd3391452afd490') in 0.232636 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/Pottery/prefabs/plate_broken.prefab
-  artifactKey: Guid(7640f6e9bb05fc64cb6c9cc53b928fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/plate_broken.prefab using Guid(7640f6e9bb05fc64cb6c9cc53b928fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e532bd32e2557dab20e37cf13ddf9f') in 0.032370 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000079 seconds.
-  path: Assets/Pottery/prefabs/vase.prefab
-  artifactKey: Guid(9e70832f304b790498cd673e4a329e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/vase.prefab using Guid(9e70832f304b790498cd673e4a329e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677e5d4173b15b4d6f968b060662184d') in 0.028417 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000061 seconds.
-  path: Assets/Pottery/prefabs/bowl_broken.prefab
-  artifactKey: Guid(58440f2f08db9b745b203d514ed3e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/bowl_broken.prefab using Guid(58440f2f08db9b745b203d514ed3e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f546e56567e943c96efd199aaaddac') in 0.029613 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Pottery/prefabs/plate_broken2.prefab
-  artifactKey: Guid(b140334e1af3f8a4eb34f80f06bd00b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/plate_broken2.prefab using Guid(b140334e1af3f8a4eb34f80f06bd00b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3cecb9af6bae7356957d53e38ea2dc') in 0.040394 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000084 seconds.
-  path: Assets/Pottery/prefabs/vase2.2.prefab
-  artifactKey: Guid(c95a93167b517cd4e92690aed7d7de14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/vase2.2.prefab using Guid(c95a93167b517cd4e92690aed7d7de14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e38130d7be10341caaf9caff80192300') in 0.026600 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000084 seconds.
-  path: Assets/Pottery/prefabs/bowl_broken2.prefab
-  artifactKey: Guid(66bdde61e863a20468809d4906b0fdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/bowl_broken2.prefab using Guid(66bdde61e863a20468809d4906b0fdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9c1a0949d54ecc18f5b55dc7a6460c') in 0.030577 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/Pottery/prefabs/vase_broken.prefab
-  artifactKey: Guid(ea6f96a46f539c240b3cbb5dca6e7526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pottery/prefabs/vase_broken.prefab using Guid(ea6f96a46f539c240b3cbb5dca6e7526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fb5e9f28592589c6a21851673169be') in 0.037698 seconds 
+  Time since last request: 0.000078 seconds.
+  path: Assets/Pottery/models/vase2.FBX
+  artifactKey: Guid(99f9dd7905123df48af004626c52d732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pottery/models/vase2.FBX using Guid(99f9dd7905123df48af004626c52d732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba073357b1e2d6041fd8757d60f3bfe') in 0.042021 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
