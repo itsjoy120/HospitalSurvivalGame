@@ -23,7 +23,6 @@ public class GhoulDead : MonoBehaviour
             Enemy.GetComponent<Animation>().Stop("Idle");
             Enemy.GetComponent<Animation>().Stop("Walk");
             Enemy.GetComponent<Animation>().Play("Death");
-            CreepyBackgroundMusicS.Play();
         }
     }
 }
