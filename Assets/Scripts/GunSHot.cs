@@ -10,12 +10,15 @@ public class GunSHot : MonoBehaviour
     public bool IsFire = false;
     public float TargetD;
     public int DamageAmount = 5;
+    public GameObject TheGun;
  
     void Update()
     {
+        PUPistol Gun = TheGun.transform.GetComponent<PUPistol>();
+
         if (Input.GetButtonDown("Fire1") && GlobalAmmo.AmmoCount >= 1)
         {
-            if (IsFire == false)
+            if (IsFire == false && Gun.PlayerWithGun)
             {
                 GlobalAmmo.AmmoCount -= 1;
                 StartCoroutine(FireP());

@@ -19,6 +19,7 @@ public class StalkerAI : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
+        
     }
 
     // Update is called once per frame
@@ -27,7 +28,8 @@ public class StalkerAI : MonoBehaviour
         if (isStalking == false)
         {
             stalkerEnemy.GetComponent<Animator>().Play("Idle");
-        }else
+        }
+        else
         {
             stalkerEnemy.GetComponent<Animator>().Play("Take 001");
             agent.SetDestination(Dest.transform.position);
@@ -45,6 +47,7 @@ public class StalkerAI : MonoBehaviour
     void OnTriggerEnter()
     {
         AttackTrigger = true;
+ 
     }
     void OnTriggerExit()
     {

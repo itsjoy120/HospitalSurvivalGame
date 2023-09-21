@@ -21,7 +21,7 @@ public class GhoulAI : MonoBehaviour
         transform.LookAt(Player.transform);
         if (AttackTrigger == false)
         {
-            EnemySpeed = 0.01f;
+            EnemySpeed = 0.03f;
             Enemy.GetComponent<Animation>().Play("Walk");
             transform.position = Vector3.MoveTowards(transform.position, Player.transform.position, EnemySpeed);
         }
@@ -32,13 +32,21 @@ public class GhoulAI : MonoBehaviour
             StartCoroutine(DamagePlayer());
         }
     }
-     void OnTriggerEnter()
+     void OnCollisionStay(Collision collision)
     {
-        AttackTrigger = true;  
+        if(collision.transform.tag == "Player")
+        {
+            AttackTrigger = true;
+        }
+        
     } 
-    void OnTriggerExit()
+    void OnCollisionExit(Collision collision)
     {
-        AttackTrigger = false;  
+        if (collision.transform.tag == "Player")
+        {
+            AttackTrigger = false;
+        }
+         
     }
     IEnumerator DamagePlayer()
     {

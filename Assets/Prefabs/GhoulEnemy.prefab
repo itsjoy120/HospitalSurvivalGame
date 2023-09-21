@@ -2242,6 +2242,7 @@ GameObject:
   - component: {fileID: 7393876848882459221}
   - component: {fileID: 7393876848882459231}
   - component: {fileID: 7393876848882459216}
+  - component: {fileID: 7759291126707173656}
   m_Layer: 0
   m_Name: GhoulEnemy
   m_TagString: Untagged
@@ -2366,6 +2367,22 @@ MonoBehaviour:
   Enemy: {fileID: 7392928345717517757}
   StatusCheck: 0
   CreepyBackgroundMusicS: {fileID: 0}
+--- !u!54 &7759291126707173656
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7393876848882459223}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &7394779717783075713
 GameObject:
   m_ObjectHideFlags: 0

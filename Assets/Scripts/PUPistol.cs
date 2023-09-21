@@ -14,6 +14,7 @@ public class PUPistol : MonoBehaviour
     public GameObject ExCross;
     public GameObject Guide;
     public GameObject JumpTrigger;
+    public bool PlayerWithGun = false;
     void Update()
     {
         DaDistance = PlayerCast.DistanceTarget;
@@ -21,12 +22,15 @@ public class PUPistol : MonoBehaviour
 
     private void OnMouseOver()
     {
+        
+
         if (DaDistance <= 3)
         {
             ExCross.SetActive(true);
             TxtAct.GetComponent<Text>().text = "Pick up pistol";
             displayAct.SetActive(true);
             TxtAct.SetActive(true);
+            PlayerWithGun = true;
 
         }
         if (Input.GetButtonDown("Action"))

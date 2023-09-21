@@ -1,0 +1,537 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1695304948243028, "dur":796, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948243829, "dur":83, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1695304948243937, "dur":21, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1695304948243958, "dur":675, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1695304948244690, "dur":737, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948245427, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949304, "dur":610, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949914, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949923, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949925, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949928, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949929, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949933, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949934, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949937, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949938, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949942, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949943, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949946, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949947, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949950, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949951, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949954, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949955, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949959, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949960, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949963, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949964, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949968, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949969, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949971, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949972, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949976, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949977, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949980, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949981, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949984, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949985, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949988, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949989, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949991, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948949992, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950015, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950016, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950020, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950021, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950024, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950031, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948950050, "dur":757, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1695304948245575, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948245576, "dur":3602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948249178, "dur":16841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1695304948266021, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948266033, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1695304948267751, "dur":22917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948290672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948290679, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948292706, "dur":37244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948329955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948329964, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948330921, "dur":14295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948345220, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948345228, "dur":696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948345943, "dur":31316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948377264, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948377272, "dur":638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948377931, "dur":22198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948400158, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948400170, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948401064, "dur":28377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948429448, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948429459, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948430352, "dur":346220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948776578, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695304948776590, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695304948778271, "dur":171359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948246490, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948246491, "dur":2688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948249180, "dur":1181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1695304948250364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948254982, "dur":4281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1695304948259280, "dur":26638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948285923, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948285930, "dur":4211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948290172, "dur":169325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948459502, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948459511, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948461074, "dur":122639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948583718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948583726, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948585940, "dur":239760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948825703, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695304948825711, "dur":678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695304948826407, "dur":122872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948249254, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948249255, "dur":2625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948251931, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948252373, "dur":3456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948255913, "dur":54511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948310453, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948310462, "dur":10861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948321358, "dur":19744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948341106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948341113, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948342071, "dur":48543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948390617, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948390624, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948391456, "dur":54176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948445636, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948445645, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948447022, "dur":335307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948782336, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695304948782350, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695304948784555, "dur":165177, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948248266, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948248266, "dur":876, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948249147, "dur":50074, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1695304948299228, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948299703, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1695304948300968, "dur":114154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948415128, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948415139, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948416276, "dur":115795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948532075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948532081, "dur":828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948532926, "dur":30114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948563046, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948563057, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948564963, "dur":219898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948784868, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695304948784881, "dur":3028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695304948787952, "dur":161321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948249215, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948249216, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1695304948249377, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948253958, "dur":3314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1695304948257302, "dur":5861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1695304948263168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948263175, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1695304948264307, "dur":114122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948378432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948378439, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948379582, "dur":27114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948406702, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948406712, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948407781, "dur":29460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948437246, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948437256, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948438210, "dur":337856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948776074, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695304948776087, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695304948777868, "dur":171755, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948246218, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948246218, "dur":2962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948249180, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1695304948249409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948256398, "dur":2334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1695304948258750, "dur":25099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948283854, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948284059, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948285024, "dur":20302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948305330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948305338, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948307526, "dur":43528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948351059, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948351067, "dur":639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948351725, "dur":19311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948371044, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948371055, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948371945, "dur":28909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948400859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948400869, "dur":954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948401849, "dur":44880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948446734, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948446742, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948447894, "dur":73046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948520944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948520951, "dur":1639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948522608, "dur":292621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948815232, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695304948815239, "dur":2000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695304948817255, "dur":132336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948245779, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948245780, "dur":3366, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948249147, "dur":1138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1695304948250287, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948254919, "dur":4324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1695304948259267, "dur":71876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948331148, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948331157, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948332355, "dur":24753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948357112, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948357122, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948357900, "dur":20096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948378000, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948378009, "dur":1079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948379111, "dur":354613, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948733727, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695304948733733, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695304948734618, "dur":214660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948246995, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948246996, "dur":2148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948249147, "dur":1152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1695304948250301, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948256297, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1695304948259801, "dur":36253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948296058, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948296068, "dur":3530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948299631, "dur":26656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948326293, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948326305, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948329200, "dur":26402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948355606, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948355632, "dur":761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948356417, "dur":101345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948457793, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948457805, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948459045, "dur":90974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948550023, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948550032, "dur":604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948550654, "dur":240586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948791247, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695304948791261, "dur":1750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695304948793053, "dur":156227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948245995, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948245995, "dur":3186, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948249182, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1695304948249444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948255306, "dur":3801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1695304948259122, "dur":42054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948301181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948301190, "dur":1016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948302234, "dur":38702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948340940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948340946, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948341968, "dur":19343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948361317, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948361328, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948362325, "dur":20597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948382927, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948382936, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948383845, "dur":20066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948403914, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948403921, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948404917, "dur":41635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948446557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948446565, "dur":1148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948447748, "dur":115964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948563715, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948563722, "dur":1519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948565264, "dur":380434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948945703, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695304948945711, "dur":3502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695304948949232, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":9, "ts":1695304948949234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948246736, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948246736, "dur":2409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948249147, "dur":16559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1695304948265818, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948265887, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1695304948267746, "dur":17847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948285598, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948285729, "dur":1561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948287321, "dur":35011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948322337, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948322345, "dur":3405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948325782, "dur":29320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948355107, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948355118, "dur":820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948355964, "dur":34082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948390050, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948390058, "dur":765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948390843, "dur":20902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948411751, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948411761, "dur":1052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948412844, "dur":132667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948545514, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948545521, "dur":980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948546527, "dur":135758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948682292, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948682305, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695304948683952, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1695304948684012, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948684073, "dur":2075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1695304948686204, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695304948686263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948686273, "dur":2149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695304948688480, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1695304948688540, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948688549, "dur":6684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1695304948695313, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695304948695392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948695401, "dur":4908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695304948700349, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1695304948700405, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948700413, "dur":2021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1695304948702473, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695304948702512, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948702518, "dur":1441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695304948703996, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1695304948704100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948704106, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1695304948704965, "dur":96443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1695304948801414, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695304948801425, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1695304948803344, "dur":145991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948247200, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948247200, "dur":1991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948249191, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1695304948249312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948254782, "dur":4456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1695304948259264, "dur":44848, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948304118, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948304129, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948305008, "dur":110892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948415907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948415916, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948417137, "dur":114792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948531940, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948531951, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948532726, "dur":262055, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948794788, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695304948794801, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695304948797514, "dur":151756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948247400, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948247400, "dur":1820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948249221, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1695304948249500, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948254856, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1695304948258262, "dur":128846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695304948387116, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948387127, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695304948387955, "dur":28795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695304948416754, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948416762, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695304948417729, "dur":380746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695304948798481, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695304948798494, "dur":3120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695304948801656, "dur":147678, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948247901, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948247901, "dur":1283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948249185, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1695304948249412, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948254991, "dur":3530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1695304948258543, "dur":32008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948290556, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948290565, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948291844, "dur":22097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948313948, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948313959, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948315062, "dur":24125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948339191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948339199, "dur":680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948339898, "dur":55904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948395809, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948395822, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948396807, "dur":38772, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948435586, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948435597, "dur":1285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948436927, "dur":294242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948731173, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695304948731197, "dur":2280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695304948733509, "dur":215766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948247704, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948247704, "dur":1497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948249202, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1695304948249323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948253995, "dur":4055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1695304948258082, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1695304948258153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948259252, "dur":5205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1695304948264480, "dur":21103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948285589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948285732, "dur":5843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948291667, "dur":168581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948460252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948460259, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948461183, "dur":40508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948501695, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948501707, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948503362, "dur":301948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948805312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695304948805317, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695304948806174, "dur":143331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948247577, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948247578, "dur":1621, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948249200, "dur":16988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1695304948266198, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948266212, "dur":1103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1695304948267346, "dur":25022, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948292372, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948292615, "dur":4273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948296921, "dur":54795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948351774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948351783, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948352833, "dur":25662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948378498, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948378504, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948379393, "dur":28994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948408392, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948408402, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948409482, "dur":347393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948756882, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695304948756893, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695304948758911, "dur":190361, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948248859, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948248859, "dur":322, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948249181, "dur":18835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1695304948268019, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948268060, "dur":481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1695304948268557, "dur":109214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695304948377775, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948377784, "dur":1050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695304948378856, "dur":65233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695304948444095, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948444106, "dur":1036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695304948445180, "dur":358871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695304948804053, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695304948804059, "dur":824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695304948804896, "dur":144838, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948248718, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948248718, "dur":465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948249184, "dur":19898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1695304948269085, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948269107, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1695304948270216, "dur":21262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948291483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948291491, "dur":3668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948295196, "dur":43252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948338467, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948338475, "dur":557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948339052, "dur":39925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948378980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948378985, "dur":667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948379676, "dur":23499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948403180, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948403193, "dur":819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948404042, "dur":283627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948687675, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948687687, "dur":2051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1695304948689792, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948689850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948689859, "dur":17021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948706914, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948706955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948706961, "dur":1315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948708304, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/resources.assets" }}
+,{ "pid":12345, "tid":17, "ts":1695304948708338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948708343, "dur":784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/resources.assets" }}
+,{ "pid":12345, "tid":17, "ts":1695304948709147, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level2.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948709174, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948709178, "dur":665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level2.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948709870, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level2" }}
+,{ "pid":12345, "tid":17, "ts":1695304948709895, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948709899, "dur":647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level2" }}
+,{ "pid":12345, "tid":17, "ts":1695304948710568, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level1" }}
+,{ "pid":12345, "tid":17, "ts":1695304948710597, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948710601, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level1" }}
+,{ "pid":12345, "tid":17, "ts":1695304948711568, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level0.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948711591, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948711594, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level0.resS" }}
+,{ "pid":12345, "tid":17, "ts":1695304948712509, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level0" }}
+,{ "pid":12345, "tid":17, "ts":1695304948712546, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948712549, "dur":607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/level0" }}
+,{ "pid":12345, "tid":17, "ts":1695304948713177, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":17, "ts":1695304948713200, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948713203, "dur":672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":17, "ts":1695304948713906, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":17, "ts":1695304948713934, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948713938, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":17, "ts":1695304948715178, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1695304948715272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1695304948715277, "dur":1035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1695304948716350, "dur":232953, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948248198, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948248198, "dur":1000, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948249199, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1695304948249382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948254008, "dur":3895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1695304948257926, "dur":404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame.exe" }}
+,{ "pid":12345, "tid":18, "ts":1695304948258332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948258338, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame.exe" }}
+,{ "pid":12345, "tid":18, "ts":1695304948260008, "dur":25968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948285980, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948286012, "dur":3842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948289894, "dur":46820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948336721, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948336733, "dur":19049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948355813, "dur":26349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948382168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948382178, "dur":1095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948383298, "dur":158811, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948542114, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948542122, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948543385, "dur":136741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948680133, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948680146, "dur":3545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948683756, "dur":115464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948799226, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1695304948799238, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":18, "ts":1695304948802192, "dur":147140, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948245522, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948245522, "dur":3619, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948249147, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":19, "ts":1695304948249154, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948250213, "dur":374, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":19, "ts":1695304948250591, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/app.info" }}
+,{ "pid":12345, "tid":19, "ts":1695304948250622, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948250912, "dur":4499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/app.info" }}
+,{ "pid":12345, "tid":19, "ts":1695304948255418, "dur":23438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1695304948278862, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948278954, "dur":4364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1695304948283352, "dur":162036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1695304948445393, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948445402, "dur":1431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1695304948446864, "dur":354428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":19, "ts":1695304948801299, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1695304948801310, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":19, "ts":1695304948803330, "dur":146003, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948248498, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948248498, "dur":697, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948249196, "dur":17343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1695304948266542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948266554, "dur":1193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1695304948267773, "dur":23017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1695304948290794, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948290803, "dur":5074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1695304948295908, "dur":120498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1695304948416412, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948416421, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1695304948417436, "dur":383092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1695304948800535, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1695304948800549, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Gifted2/Downloads/Build/SurvivalHorrorGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1695304948802479, "dur":146848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695304948951379, "dur":999, "ph":"X", "name": "ProfilerWriteOutput" }
+,
